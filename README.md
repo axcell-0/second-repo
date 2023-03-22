@@ -38,33 +38,13 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
-
+- 
 <!-- PROJECT DESCRIPTION -->
 
 <!-- this is my new blog I created with HTML, CSS -->
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello Microverse]** is a...
+# Hello Microverse
+This project is a Hello Microverse repository. No complex codind is required for this exercise. The goal is to master all of the tools and best practices learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well, so it is important to know!.
 1- HTML
 2- css
 3- linters
@@ -72,8 +52,6 @@ After you're finished please remove all the comments and instructions!
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -88,18 +66,15 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 - added index.HTML
 - added Style.CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+# LIVE DEMO 
 
-- comming soon
+- [] comming soon
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
@@ -152,13 +127,13 @@ open index.html using the live server
 
 To run tests, run the following command:
 
-comming soon
+[]comming soon
 
 ### Deployment
 
 You can deploy this project using:
 
-comming soon
+[]comming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
